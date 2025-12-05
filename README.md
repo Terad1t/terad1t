@@ -2,7 +2,7 @@
 
 **`Desenvolvedor back-end`**
 
-Olá! Me chamo Arthur Alves, tenho 20 anos e sou de Brasília-DF. Conclui o ensino médio no CEMEIT (Taguatinga Norte), estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Estácio. Eu amo tecnologia, já criei projetos de automação para o TJDFT usando Selenium, Playwrite e PyTorch e já consultei planilhas do excel usando Pandas, NumPy e MatplotLib, minhas linguagens principais são: Python e Java.
+Olá! Me chamo Arthur Alves. Tenho 20 anos e sou de Brasília-DF. Conclui o ensino médio no CEMEIT (Taguatinga Norte), estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Estácio. Eu amo tecnologia, já criei projetos de automação para o TJDFT usando Selenium, Playwrite e PyTorch e já consultei planilhas do excel usando Pandas, NumPy e MatplotLib, minhas linguagens principais são: Python e Java.
 
 ### 🧰 Linguagens e ferramentas
 
